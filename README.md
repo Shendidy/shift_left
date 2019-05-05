@@ -1,3 +1,7 @@
+## Video link: https://youtu.be/DYmtG-G1SRo
+
+## Github repo: https://github.com/Shendidy/shift_left.git
+
 You are given two strings. In a single move, you can choose any of them, and delete the first (i.e. leftmost) character.
 
 For Example:
@@ -10,8 +14,10 @@ Notes
 Both strings consist of lowercase latin letters.
 If the string is already empty, you cannot perform any more delete operations.
 
-## Passing criteria:
+### Passing criteria:
 
 (shift_left("test", "west") => 2
+
 (shift_left("test", "yes") => 7
+
 (shift_left("b", "ab") => 1
